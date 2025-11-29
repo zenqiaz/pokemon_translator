@@ -1,0 +1,935 @@
+{
+  "pokemon": [
+    {
+      "id": 3,
+      "slug": "venusaur",
+      "en": "Venusaur",
+      "zh": "妙蛙花"
+    },
+    {
+      "id": 15,
+      "slug": "beedrill",
+      "en": "Beedrill",
+      "zh": "大针蜂"
+    },
+    {
+      "id": 34,
+      "slug": "nidoking",
+      "en": "Nidoking",
+      "zh": "尼多王"
+    },
+    {
+      "id": 36,
+      "slug": "clefable",
+      "en": "Clefable",
+      "zh": "皮可西"
+    },
+    {
+      "id": 38,
+      "slug": "ninetales",
+      "en": "Ninetales",
+      "zh": "九尾"
+    },
+    {
+      "id": 45,
+      "slug": "vileplume",
+      "en": "Vileplume",
+      "zh": "霸王花"
+    },
+    {
+      "id": 59,
+      "slug": "arcanine",
+      "en": "Arcanine",
+      "zh": "风速狗"
+    },
+    {
+      "id": 73,
+      "slug": "tentacruel",
+      "en": "Tentacruel",
+      "zh": "毒刺水母"
+    },
+    {
+      "id": 89,
+      "slug": "muk",
+      "en": "Muk",
+      "zh": "臭臭泥"
+    },
+    {
+      "id": 110,
+      "slug": "weezing",
+      "en": "Weezing",
+      "zh": "双弹瓦斯"
+    },
+    {
+      "id": 113,
+      "slug": "chansey",
+      "en": "Chansey",
+      "zh": "吉利蛋"
+    },
+    {
+      "id": 132,
+      "slug": "ditto",
+      "en": "Ditto",
+      "zh": "百变怪"
+    },
+    {
+      "id": 135,
+      "slug": "jolteon",
+      "en": "Jolteon",
+      "zh": "雷伊布"
+    },
+    {
+      "id": 145,
+      "slug": "zapdos",
+      "en": "Zapdos",
+      "zh": "闪电鸟"
+    },
+    {
+      "id": 146,
+      "slug": "moltres",
+      "en": "Moltres",
+      "zh": "火焰鸟"
+    },
+    {
+      "id": 149,
+      "slug": "dragonite",
+      "en": "Dragonite",
+      "zh": "快龙"
+    },
+    {
+      "id": 151,
+      "slug": "mew",
+      "en": "Mew",
+      "zh": "梦幻"
+    },
+    {
+      "id": 184,
+      "slug": "azumarill",
+      "en": "Azumarill",
+      "zh": "玛力露丽"
+    },
+    {
+      "id": 195,
+      "slug": "quagsire",
+      "en": "Quagsire",
+      "zh": "沼王"
+    },
+    {
+      "id": 199,
+      "slug": "slowking",
+      "en": "Slowking",
+      "zh": "呆呆王"
+    },
+    {
+      "id": 204,
+      "slug": "pineco",
+      "en": "Pineco",
+      "zh": "榛果球"
+    },
+    {
+      "id": 212,
+      "slug": "scizor",
+      "en": "Scizor",
+      "zh": "巨钳螳螂"
+    },
+    {
+      "id": 214,
+      "slug": "heracross",
+      "en": "Heracross",
+      "zh": "赫拉克罗斯"
+    },
+    {
+      "id": 219,
+      "slug": "magcargo",
+      "en": "Magcargo",
+      "zh": "熔岩蜗牛"
+    },
+    {
+      "id": 227,
+      "slug": "skarmory",
+      "en": "Skarmory",
+      "zh": "盔甲鸟"
+    },
+    {
+      "id": 230,
+      "slug": "kingdra",
+      "en": "Kingdra",
+      "zh": "刺龙王"
+    },
+    {
+      "id": 235,
+      "slug": "smeargle",
+      "en": "Smeargle",
+      "zh": "图图犬"
+    },
+    {
+      "id": 242,
+      "slug": "blissey",
+      "en": "Blissey",
+      "zh": "幸福蛋"
+    },
+    {
+      "id": 244,
+      "slug": "entei",
+      "en": "Entei",
+      "zh": "炎帝"
+    },
+    {
+      "id": 245,
+      "slug": "suicune",
+      "en": "Suicune",
+      "zh": "水君"
+    },
+    {
+      "id": 248,
+      "slug": "tyranitar",
+      "en": "Tyranitar",
+      "zh": "班基拉斯"
+    },
+    {
+      "id": 257,
+      "slug": "blaziken",
+      "en": "Blaziken",
+      "zh": "火焰鸡"
+    },
+    {
+      "id": 279,
+      "slug": "pelipper",
+      "en": "Pelipper",
+      "zh": "大嘴鸥"
+    },
+    {
+      "id": 286,
+      "slug": "breloom",
+      "en": "Breloom",
+      "zh": "斗笠菇"
+    },
+    {
+      "id": 324,
+      "slug": "torkoal",
+      "en": "Torkoal",
+      "zh": "煤炭龟"
+    },
+    {
+      "id": 334,
+      "slug": "altaria",
+      "en": "Altaria",
+      "zh": "七夕青鸟"
+    },
+    {
+      "id": 350,
+      "slug": "milotic",
+      "en": "Milotic",
+      "zh": "美纳斯"
+    },
+    {
+      "id": 380,
+      "slug": "latias",
+      "en": "Latias",
+      "zh": "拉帝亚斯"
+    },
+    {
+      "id": 381,
+      "slug": "latios",
+      "en": "Latios",
+      "zh": "拉帝欧斯"
+    },
+    {
+      "id": 385,
+      "slug": "jirachi",
+      "en": "Jirachi",
+      "zh": "基拉祈"
+    },
+    {
+      "id": 386,
+      "slug": "deoxys",
+      "en": "Deoxys",
+      "zh": "代欧奇希斯"
+    },
+    {
+      "id": 395,
+      "slug": "empoleon",
+      "en": "Empoleon",
+      "zh": "帝王拿波"
+    },
+    {
+      "id": 437,
+      "slug": "bronzong",
+      "en": "Bronzong",
+      "zh": "青铜钟"
+    },
+    {
+      "id": 445,
+      "slug": "garchomp",
+      "en": "Garchomp",
+      "zh": "烈咬陆鲨"
+    },
+    {
+      "id": 450,
+      "slug": "hippowdon",
+      "en": "Hippowdon",
+      "zh": "河马兽"
+    },
+    {
+      "id": 461,
+      "slug": "weavile",
+      "en": "Weavile",
+      "zh": "玛狃拉"
+    },
+    {
+      "id": 462,
+      "slug": "magnezone",
+      "en": "Magnezone",
+      "zh": "自爆磁怪"
+    },
+    {
+      "id": 472,
+      "slug": "gliscor",
+      "en": "Gliscor",
+      "zh": "天蝎王"
+    },
+    {
+      "id": 473,
+      "slug": "mamoswine",
+      "en": "Mamoswine",
+      "zh": "象牙猪"
+    },
+    {
+      "id": 479,
+      "slug": "rotom",
+      "en": "Rotom",
+      "zh": "洛托姆"
+    },
+    {
+      "id": 485,
+      "slug": "heatran",
+      "en": "Heatran",
+      "zh": "席多蓝恩"
+    },
+    {
+      "id": 488,
+      "slug": "cresselia",
+      "en": "Cresselia",
+      "zh": "克雷色利亚"
+    },
+    {
+      "id": 490,
+      "slug": "manaphy",
+      "en": "Manaphy",
+      "zh": "玛纳霏"
+    },
+    {
+      "id": 491,
+      "slug": "darkrai",
+      "en": "Darkrai",
+      "zh": "达克莱伊"
+    },
+    {
+      "id": 492,
+      "slug": "shaymin",
+      "en": "Shaymin",
+      "zh": "谢米"
+    },
+    {
+      "id": 493,
+      "slug": "arceus",
+      "en": "Arceus",
+      "zh": "阿尔宙斯"
+    },
+    {
+      "id": 494,
+      "slug": "victini",
+      "en": "Victini",
+      "zh": "比克提尼"
+    },
+    {
+      "id": 497,
+      "slug": "serperior",
+      "en": "Serperior",
+      "zh": "君主蛇"
+    },
+    {
+      "id": 501,
+      "slug": "oshawott",
+      "en": "Oshawott",
+      "zh": "水水獭"
+    },
+    {
+      "id": 503,
+      "slug": "samurott",
+      "en": "Samurott",
+      "zh": "大剑鬼"
+    },
+    {
+      "id": 530,
+      "slug": "excadrill",
+      "en": "Excadrill",
+      "zh": "龙头地鼠"
+    },
+    {
+      "id": 542,
+      "slug": "leavanny",
+      "en": "Leavanny",
+      "zh": "保姆虫"
+    },
+    {
+      "id": 547,
+      "slug": "whimsicott",
+      "en": "Whimsicott",
+      "zh": "风妖精"
+    },
+    {
+      "id": 549,
+      "slug": "lilligant",
+      "en": "Lilligant",
+      "zh": "裙儿小姐"
+    },
+    {
+      "id": 556,
+      "slug": "maractus",
+      "en": "Maractus",
+      "zh": "沙铃仙人掌"
+    },
+    {
+      "id": 573,
+      "slug": "cinccino",
+      "en": "Cinccino",
+      "zh": "奇诺栗鼠"
+    },
+    {
+      "id": 579,
+      "slug": "reuniclus",
+      "en": "Reuniclus",
+      "zh": "人造细胞卵"
+    },
+    {
+      "id": 591,
+      "slug": "amoonguss",
+      "en": "Amoonguss",
+      "zh": "败露球菇"
+    },
+    {
+      "id": 594,
+      "slug": "alomomola",
+      "en": "Alomomola",
+      "zh": "保姆曼波"
+    },
+    {
+      "id": 596,
+      "slug": "galvantula",
+      "en": "Galvantula",
+      "zh": "电蜘蛛"
+    },
+    {
+      "id": 612,
+      "slug": "haxorus",
+      "en": "Haxorus",
+      "zh": "双斧战龙"
+    },
+    {
+      "id": 630,
+      "slug": "mandibuzz",
+      "en": "Mandibuzz",
+      "zh": "秃鹰娜"
+    },
+    {
+      "id": 635,
+      "slug": "hydreigon",
+      "en": "Hydreigon",
+      "zh": "三首恶龙"
+    },
+    {
+      "id": 637,
+      "slug": "volcarona",
+      "en": "Volcarona",
+      "zh": "火神蛾"
+    },
+    {
+      "id": 641,
+      "slug": "tornadus",
+      "en": "Tornadus",
+      "zh": "龙卷云"
+    },
+    {
+      "id": 642,
+      "slug": "thundurus",
+      "en": "Thundurus",
+      "zh": "雷电云"
+    },
+    {
+      "id": 645,
+      "slug": "landorus",
+      "en": "Landorus",
+      "zh": "土地云"
+    },
+    {
+      "id": 646,
+      "slug": "kyurem",
+      "en": "Kyurem",
+      "zh": "酋雷姆"
+    },
+    {
+      "id": 647,
+      "slug": "keldeo",
+      "en": "Keldeo",
+      "zh": "凯路迪欧"
+    },
+    {
+      "id": 648,
+      "slug": "meloetta",
+      "en": "Meloetta",
+      "zh": "美洛耶塔"
+    },
+    {
+      "id": 652,
+      "slug": "chesnaught",
+      "en": "Chesnaught",
+      "zh": "布里卡隆"
+    },
+    {
+      "id": 658,
+      "slug": "greninja",
+      "en": "Greninja",
+      "zh": "甲贺忍蛙"
+    },
+    {
+      "id": 663,
+      "slug": "talonflame",
+      "en": "Talonflame",
+      "zh": "烈箭鹰"
+    },
+    {
+      "id": 701,
+      "slug": "hawlucha",
+      "en": "Hawlucha",
+      "zh": "摔角鹰人"
+    },
+    {
+      "id": 706,
+      "slug": "goodra",
+      "en": "Goodra",
+      "zh": "黏美龙"
+    },
+    {
+      "id": 719,
+      "slug": "diancie",
+      "en": "Diancie",
+      "zh": "蒂安希"
+    },
+    {
+      "id": 720,
+      "slug": "hoopa",
+      "en": "Hoopa",
+      "zh": "胡帕"
+    },
+    {
+      "id": 721,
+      "slug": "volcanion",
+      "en": "Volcanion",
+      "zh": "波尔凯尼恩"
+    },
+    {
+      "id": 730,
+      "slug": "primarina",
+      "en": "Primarina",
+      "zh": "西狮海壬"
+    },
+    {
+      "id": 743,
+      "slug": "ribombee",
+      "en": "Ribombee",
+      "zh": "蝶结萌虻"
+    },
+    {
+      "id": 748,
+      "slug": "toxapex",
+      "en": "Toxapex",
+      "zh": "超坏星"
+    },
+    {
+      "id": 752,
+      "slug": "araquanid",
+      "en": "Araquanid",
+      "zh": "滴蛛霸"
+    },
+    {
+      "id": 764,
+      "slug": "comfey",
+      "en": "Comfey",
+      "zh": "花疗环环"
+    },
+    {
+      "id": 778,
+      "slug": "mimikyu",
+      "en": "Mimikyu",
+      "zh": "谜拟丘"
+    },
+    {
+      "id": 784,
+      "slug": "kommo-o",
+      "en": "Kommo-o",
+      "zh": "杖尾鳞甲龙"
+    },
+    {
+      "id": 800,
+      "slug": "necrozma",
+      "en": "Necrozma",
+      "zh": "奈克洛兹玛"
+    },
+    {
+      "id": 812,
+      "slug": "rillaboom",
+      "en": "Rillaboom",
+      "zh": "轰擂金刚猩"
+    },
+    {
+      "id": 815,
+      "slug": "cinderace",
+      "en": "Cinderace",
+      "zh": "闪焰王牌"
+    },
+    {
+      "id": 823,
+      "slug": "corviknight",
+      "en": "Corviknight",
+      "zh": "钢铠鸦"
+    },
+    {
+      "id": 847,
+      "slug": "barraskewda",
+      "en": "Barraskewda",
+      "zh": "戽斗尖梭"
+    },
+    {
+      "id": 855,
+      "slug": "polteageist",
+      "en": "Polteageist",
+      "zh": "怖思壶"
+    },
+    {
+      "id": 858,
+      "slug": "hatterene",
+      "en": "Hatterene",
+      "zh": "布莉姆温"
+    },
+    {
+      "id": 861,
+      "slug": "grimmsnarl",
+      "en": "Grimmsnarl",
+      "zh": "长毛巨魔"
+    },
+    {
+      "id": 871,
+      "slug": "pincurchin",
+      "en": "Pincurchin",
+      "zh": "啪嚓海胆"
+    },
+    {
+      "id": 876,
+      "slug": "indeedee",
+      "en": "Indeedee",
+      "zh": "爱管侍"
+    },
+    {
+      "id": 887,
+      "slug": "dragapult",
+      "en": "Dragapult",
+      "zh": "多龙巴鲁托"
+    },
+    {
+      "id": 889,
+      "slug": "zamazenta",
+      "en": "Zamazenta",
+      "zh": "藏玛然特"
+    },
+    {
+      "id": 893,
+      "slug": "zarude",
+      "en": "Zarude",
+      "zh": "萨戮德"
+    },
+    {
+      "id": 901,
+      "slug": "ursaluna",
+      "en": "Ursaluna",
+      "zh": "月月熊"
+    },
+    {
+      "id": 902,
+      "slug": "basculegion",
+      "en": "Basculegion",
+      "zh": "幽尾玄鱼"
+    },
+    {
+      "id": 904,
+      "slug": "overqwil",
+      "en": "Overqwil",
+      "zh": "万针鱼"
+    },
+    {
+      "id": 905,
+      "slug": "enamorus",
+      "en": "Enamorus",
+      "zh": "眷恋云"
+    },
+    {
+      "id": 908,
+      "slug": "meowscarada",
+      "en": "Meowscarada",
+      "zh": "魔幻假面喵"
+    },
+    {
+      "id": 911,
+      "slug": "skeledirge",
+      "en": "Skeledirge",
+      "zh": "骨纹巨声鳄"
+    },
+    {
+      "id": 914,
+      "slug": "quaquaval",
+      "en": "Quaquaval",
+      "zh": "狂欢浪舞鸭"
+    },
+    {
+      "id": 920,
+      "slug": "lokix",
+      "en": "Lokix",
+      "zh": "烈腿蝗"
+    },
+    {
+      "id": 925,
+      "slug": "maushold",
+      "en": "Maushold",
+      "zh": "一家鼠"
+    },
+    {
+      "id": 934,
+      "slug": "garganacl",
+      "en": "Garganacl",
+      "zh": "盐石巨灵"
+    },
+    {
+      "id": 936,
+      "slug": "armarouge",
+      "en": "Armarouge",
+      "zh": "红莲铠骑"
+    },
+    {
+      "id": 937,
+      "slug": "ceruledge",
+      "en": "Ceruledge",
+      "zh": "苍炎刃鬼"
+    },
+    {
+      "id": 939,
+      "slug": "bellibolt",
+      "en": "Bellibolt",
+      "zh": "电肚蛙"
+    },
+    {
+      "id": 959,
+      "slug": "tinkaton",
+      "en": "Tinkaton",
+      "zh": "巨锻匠"
+    },
+    {
+      "id": 967,
+      "slug": "cyclizar",
+      "en": "Cyclizar",
+      "zh": "摩托蜥"
+    },
+    {
+      "id": 970,
+      "slug": "glimmora",
+      "en": "Glimmora",
+      "zh": "晶光花"
+    },
+    {
+      "id": 977,
+      "slug": "dondozo",
+      "en": "Dondozo",
+      "zh": "吃吼霸"
+    },
+    {
+      "id": 980,
+      "slug": "clodsire",
+      "en": "Clodsire",
+      "zh": "土王"
+    },
+    {
+      "id": 983,
+      "slug": "kingambit",
+      "en": "Kingambit",
+      "zh": "仆刀将军"
+    },
+    {
+      "id": 984,
+      "slug": "great-tusk",
+      "en": "Great Tusk",
+      "zh": "雄伟牙"
+    },
+    {
+      "id": 985,
+      "slug": "scream-tail",
+      "en": "Scream Tail",
+      "zh": "吼叫尾"
+    },
+    {
+      "id": 988,
+      "slug": "slither-wing",
+      "en": "Slither Wing",
+      "zh": "爬地翅"
+    },
+    {
+      "id": 989,
+      "slug": "sandy-shocks",
+      "en": "Sandy Shocks",
+      "zh": "沙铁皮"
+    },
+    {
+      "id": 990,
+      "slug": "iron-treads",
+      "en": "Iron Treads",
+      "zh": "铁轍迹"
+    },
+    {
+      "id": 992,
+      "slug": "iron-hands",
+      "en": "Iron Hands",
+      "zh": "铁臂膀"
+    },
+    {
+      "id": 993,
+      "slug": "iron-jugulis",
+      "en": "Iron Jugulis",
+      "zh": "铁脖颈"
+    },
+    {
+      "id": 994,
+      "slug": "iron-moth",
+      "en": "Iron Moth",
+      "zh": "铁毒蛾"
+    },
+    {
+      "id": 1000,
+      "slug": "gholdengo",
+      "en": "Gholdengo",
+      "zh": "赛富豪"
+    },
+    {
+      "id": 1001,
+      "slug": "wo-chien",
+      "en": "Wo-Chien",
+      "zh": "古简蜗"
+    },
+    {
+      "id": 1003,
+      "slug": "ting-lu",
+      "en": "Ting-Lu",
+      "zh": "古鼎鹿"
+    },
+    {
+      "id": 1004,
+      "slug": "chi-yu",
+      "en": "Chi-Yu",
+      "zh": "古玉鱼"
+    },
+    {
+      "id": 1005,
+      "slug": "roaring-moon",
+      "en": "Roaring Moon",
+      "zh": "轰鸣月"
+    },
+    {
+      "id": 1006,
+      "slug": "iron-valiant",
+      "en": "Iron Valiant",
+      "zh": "铁武者"
+    },
+    {
+      "id": 1009,
+      "slug": "walking-wake",
+      "en": "Walking Wake",
+      "zh": "波荡水"
+    },
+    {
+      "id": 1013,
+      "slug": "sinistcha",
+      "en": "Sinistcha",
+      "zh": "来悲粗茶"
+    },
+    {
+      "id": 1014,
+      "slug": "okidogi",
+      "en": "Okidogi",
+      "zh": "够赞狗"
+    },
+    {
+      "id": 1016,
+      "slug": "fezandipiti",
+      "en": "Fezandipiti",
+      "zh": "吉雉鸡"
+    },
+    {
+      "id": 1017,
+      "slug": "ogerpon",
+      "en": "Ogerpon",
+      "zh": "厄诡椪"
+    },
+    {
+      "id": 1018,
+      "slug": "archaludon",
+      "en": "Archaludon",
+      "zh": "铝钢桥龙"
+    },
+    {
+      "id": 1019,
+      "slug": "hydrapple",
+      "en": "Hydrapple",
+      "zh": "蜜集大蛇"
+    },
+    {
+      "id": 1020,
+      "slug": "gouging-fire",
+      "en": "Gouging Fire",
+      "zh": "破空焰"
+    },
+    {
+      "id": 1021,
+      "slug": "raging-bolt",
+      "en": "Raging Bolt",
+      "zh": "猛雷鼓"
+    },
+    {
+      "id": 1022,
+      "slug": "iron-boulder",
+      "en": "Iron Boulder",
+      "zh": "鐵磐岩"
+    },
+    {
+      "id": 1023,
+      "slug": "iron-crown",
+      "en": "Iron Crown",
+      "zh": "鐵頭殼"
+    },
+    {
+      "id": 1025,
+      "slug": "pecharunt",
+      "en": "Pecharunt",
+      "zh": "桃歹郎"
+    }
+  ],
+  "moves": [
+    {
+      "id": 191,
+      "slug": "spikes",
+      "en": "Spikes",
+      "zh": "撒菱"
+    },
+    {
+      "id": 390,
+      "slug": "toxic-spikes",
+      "en": "Toxic Spikes",
+      "zh": "毒菱"
+    }]
+}
